@@ -222,12 +222,14 @@ Business Insights:
 
 # 🛠️ Tools & Technologies
 
-- **Microsoft Power BI**
-- **Power Query**
-- **DAX (Data Analysis Expressions)**
-- **Data Modeling (Star Schema)**
-- **Data Visualization**
-- **Excel / CSV Dataset**
+Building this dashboard taught me:
+
+✅ **Advanced DAX:** Time intelligence, context transition, iterator functions
+✅ **Data Modeling:** Star schema design, relationship optimization
+✅ **Power Query:** M language, data transformation, error handling
+✅ **UX Design:** Information hierarchy, color psychology, accessibility
+✅ **Performance Optimization:** Query folding, measure optimization, aggregations
+✅ **Business Intelligence:** Translating data into actionable insights
 
 ---
 
@@ -262,7 +264,7 @@ AVERAGE(Orders[Delivery Time])
 
 
 ### Executive Dashboard
-![Executive Dashboard](Dashboard-sh.png)
+![Executive Dashboard](1.Swift Logistic Dashboard.png
 
 ### Drivers Overview
 ![Drivers Overview](Drivers-sh.png)
@@ -305,7 +307,7 @@ Possible enhancements include:
 
 # 📬 Connect With Me
 
-If you like this project or want to collaborate, feel free to connect with me on **LinkedIn** -[www.linkedin.com/in/kishoree23](https://www.linkedin.com/in/md-aamir-raza-a6104820a/).
+If you like this project or want to collaborate, feel free to connect with me on **LinkedIn** -[www.linkedin.com/in/md-aamir-raza](https://www.linkedin.com/in/md-aamir-raza-a6104820a/).
 
 ---
 
