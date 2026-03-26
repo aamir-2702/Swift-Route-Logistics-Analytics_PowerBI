@@ -135,6 +135,7 @@ The executive dashboard tracks the following KPIs:
 
 # 🗂️ Project Structure
 
+```
 SwiftRoute-Logistics-Dashboard/
 │
 ├── 📊 Dashboard/
@@ -171,7 +172,7 @@ SwiftRoute-Logistics-Dashboard/
 ├── README.md                              # You are here!
 ├── LICENSE                                # MIT License
 └── .gitignore                             # Git ignore file
-
+```
 
 ---
 
