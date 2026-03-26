@@ -264,6 +264,27 @@ Avg Delivery Time =
 AVERAGE(Orders[Delivery Time])
 ```
 
+### Driver Delay Percentage with Context
+
+```DAX
+Driver Delay % = 
+VAR DelayedOrders = CALCULATE(COUNT(Orders[Order ID]), Orders[Is Delayed] = TRUE)
+VAR TotalOrders = COUNT(Orders[Order ID])
+RETURN DIVIDE(DelayedOrders, TotalOrders, 0)
+```
+
+### Hub Performance Ranking
+
+```DAX
+Hub Performance Rank = 
+RANKX(
+    ALL(Hubs[HubName]),
+    [On Time Delivery Rate],
+    ,
+    DESC,
+    Dense
+```
+
 ---
 
 # 📷 Dashboard Preview
