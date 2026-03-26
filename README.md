@@ -264,13 +264,16 @@ AVERAGE(Orders[Delivery Time])
 
 
 ### Executive Dashboard
-![Executive Dashboard](1.Swift Logistic Dashboard.png
+![Dashboard Screenshot](https://github.com/aamir-2702/Swift-Route-Logistics-Analytics_PowerBI/blob/main/1.Swift%20Logistic%20Dashboard.png)
 
 ### Drivers Overview
-![Drivers Overview](Drivers-sh.png)
+![Dashboard Screenshot](https://github.com/aamir-2702/Swift-Route-Logistics-Analytics_PowerBI/blob/main/2.%20Drivers%20Overview.png)
 
+### Hubs Overview
+![Dashboard Screenshot](https://github.com/aamir-2702/Swift-Route-Logistics-Analytics_PowerBI/blob/main/3.%20Hubs%20Overview.png)
 
----
+### Hubs Overview
+![Dashboard Screenshot](https://github.com/aamir-2702/Swift-Route-Logistics-Analytics_PowerBI/blob/main/4.%20Vehicels%20Overview.png)
 
 ---
 
