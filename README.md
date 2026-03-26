@@ -133,6 +133,49 @@ The executive dashboard tracks the following KPIs:
 
 ---
 
+# 🗂️ Project Structure
+
+SwiftRoute-Logistics-Dashboard/
+│
+├── 📊 Dashboard/
+│   ├── SwiftRoute logistics dashboard.pbix          # Main Power BI file
+│   ├── SwiftRoute_Dashboard_Mobile.pbix   # Mobile-optimized version
+│   └── Templates/
+│       └── Report_Template.pbit           # Reusable template
+│
+├── 📁 Data/
+│   ├── Raw/
+│   │   ├── Drivers.csv                    # Driver information (55 records)
+│   │   ├── Hubs.csv                       # Hub details (6 hubs)
+│   │   ├── Orders.csv                     # Order transactions (1,174 orders)
+│   │   └── Vehicles.csv                   # Vehicle fleet data (45 vehicles)
+│   │
+│   └── Processed/
+│       └── DataModel.xlsx                 # Cleaned and transformed data
+│
+├── 📸 Screenshots/
+│   ├── Swift Logistic dashboard_main.png
+│   ├── drivers_overview.png
+│   ├── hubs_overview.png
+│   └── vehicles_overview.png
+│
+├── 📝 Documentation/
+│   ├── Domain Knowledge.docx              # Column definitions and descriptions
+│   ├── Business Requirement.docx          # All DAX formulas with explanations
+│   ├── Power_Query_Steps.md               # Data transformation documentation
+│   └── User_Guide.pdf                     # End-user manual
+│
+├── 🔧 Scripts/
+│   └── data_generation.py                 # Sample data generator (if needed)
+│
+├── README.md                              # You are here!
+├── LICENSE                                # MIT License
+└── .gitignore                             # Git ignore file
+
+
+---
+
+
 # 📊 Dashboard Pages
 
 ## 1️⃣ Executive Dashboard
