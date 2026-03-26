@@ -225,11 +225,17 @@ Business Insights:
 Building this dashboard taught me:
 
 ✅ **Advanced DAX:** Time intelligence, context transition, iterator functions
+
 ✅ **Data Modeling:** Star schema design, relationship optimization
+
 ✅ **Power Query:** M language, data transformation, error handling
+
 ✅ **UX Design:** Information hierarchy, color psychology, accessibility
+
 ✅ **Performance Optimization:** Query folding, measure optimization, aggregations
+
 ✅ **Business Intelligence:** Translating data into actionable insights
+
 
 ---
 
